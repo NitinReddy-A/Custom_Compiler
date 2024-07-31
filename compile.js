@@ -104,7 +104,7 @@ function Code_Runner(input){
 
 //This is my custom language code
 const code = `
-    take x = 10
+    take x = 20
     take y = 20
     take sum = x / y
     show sum
